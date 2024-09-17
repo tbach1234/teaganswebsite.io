@@ -1,0 +1,36 @@
+body {
+
+    background-image: url(gooseberrybeach.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    background-color: #4371ae;
+}
+h1 {
+    text-align:center;
+    color: #e5cda4;
+    
+}
+body{
+    width: 800px;
+    color: #e5cda4;
+    background-image: -moz-linear-gradient(10);
+    border-style: ridge;
+    border-color:#e5cda4 ;
+    border-width: 3px;
+    
+}
+html {
+    
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
